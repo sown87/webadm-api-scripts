@@ -1,4 +1,3 @@
-use strict;
 #!/bin/perl -w
 use strict;
 use warnings;
